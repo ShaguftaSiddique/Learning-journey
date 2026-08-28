@@ -1,8 +1,6 @@
 # Learning-journey
 Documenting my journey from programming fundamentals to Data Science.
 
-<h1>🌱 Learning Journey</h1>
-
 <p>Welcome to my learning journey!</p>
 
 <p>
